@@ -1,0 +1,82 @@
+jQuery3210148640321565907341: {}
+aLink: ""
+accessKey: ""
+attributeStyleMap: StylePropertyMap
+size: 0
+[[Prototype]]: StylePropertyMap
+attributes: NamedNodeMap
+0: data-new-gr-c-s-check-loaded
+1: data-gr-ext-installed
+data-gr-ext-installed: data-gr-ext-installed
+data-new-gr-c-s-check-loaded: data-new-gr-c-s-check-loaded
+length: 2
+[[Prototype]]: NamedNodeMap
+autocapitalize: ""
+autofocus: false
+background: ""
+baseURI: "https://cupones.alsea.com.mx/CuponeraAlsea/WalletAlsea"
+bgColor: ""
+childElementCount: 16
+childNodes: NodeList(36) [text, comment, text, noscript, text, comment, text, script, text, script, text, script, text, script, text, script, text, script, text, div#alseaContent.container, text, script, text, noscript, text, comment, text, footer#footerAlsea.text-center.w-100.d-block.mt-auto, text, script, text, div#exampleModal.modal.fade, text, div, iframe, iframe]
+children: HTMLCollection(16) [noscript, script, script, script, script, script, script, div#alseaContent.container, script, noscript, footer#footerAlsea.text-center.w-100.d-block.mt-auto, script, div#exampleModal.modal.fade, div, iframe, iframe, alseaContent: div#alseaContent.container, footerAlsea: footer#footerAlsea.text-center.w-100.d-block.mt-auto, exampleModal: div#exampleModal.modal.fade]
+classList: DOMTokenList [value: '']
+className: ""
+clientHeight: 1389
+clientLeft: 0
+clientTop: 0
+clientWidth: 135
+contentEditable: "inherit"
+dataset: DOMStringMap {newGrCSCheckLoaded: '14.1082.0', grExtInstalled: ''}
+dir: ""
+draggable: false
+elementTiming: ""
+enterKeyHint: ""
+firstChild: text
+firstElementChild: noscript
+hidden: false
+id: ""
+inert: false
+innerHTML: "\n\n\t<!-- Google Tag Manager (noscript) -->\n\n\
+innerText: "Ingresar\n|\nRegístrate\nCUPONES ALSEA\n\nConoce las promociones que Alsea tiene para ti.\n\nItalianni's\n\n$300 DE DESCUENTO EN EL TOTAL DE LA CUENTA EN CONSUMO MÍNIMO DE $1000\n\nVálida hasta el 30-dic-2023\n\n10% DESCUENTO EN EL TOTAL DE LA CUENTA\n\nVálida hasta el 30-dic-2022\n\n20% DESCUENTO EN EL TOTAL DE TU CUENTA\n\nVálida hasta el 30-dic-2022\n\nEl Portón\n\n20% DESCUENTO EN CONSUMO MIN $189\n\nVálida hasta el 31-ene-2023\n\n$100 DESCUENTO EN EL CONSUMO MINIMO DE $400\n\nVálida hasta el 30-ene-2023\n\n2020 © Alsea Todos los derechos reservados. Términos y condiciones | Aviso de privacidad"
+inputMode: ""
+isConnected: true
+isContentEditable: false
+lang: ""
+lastChild: iframe
+lastElementChild: iframe
+link: ""
+localName: "body"
+namespaceURI: "http://www.w3.org/1999/xhtml"
+nextElementSibling: grammarly-desktop-integration
+nextSibling: grammarly-desktop-integration
+nodeName: "BODY"
+nodeType: 1
+nonce: ""
+offsetHeight: 1389
+offsetLeft: 0
+offsetTop: 0
+offsetWidth: 135
+onerror: ƒ (d,e,f,g,l)
+outerHTML: "<body data-new-gr-c-s-check-loaded=\"14.1082.0\" 
+outerText: "Ingresar\n|\nRegístrate\nCUPONES ALSEA\n\nConoce las promociones que Alsea tiene para ti.\n\nItalianni's\n\n$300 DE DESCUENTO EN EL TOTAL DE LA CUENTA EN CONSUMO MÍNIMO DE $1000\n\nVálida hasta el 30-dic-2023\n\n10% DESCUENTO EN EL TOTAL DE LA CUENTA\n\nVálida hasta el 30-dic-2022\n\n20% DESCUENTO EN EL TOTAL DE TU CUENTA\n\nVálida hasta el 30-dic-2022\n\nEl Portón\n\n20% DESCUENTO EN CONSUMO MIN $189\n\nVálida hasta el 31-ene-2023\n\n$100 DESCUENTO EN EL CONSUMO MINIMO DE $400\n\nVálida hasta el 30-ene-2023\n\n2020 © Alsea Todos los derechos reservados. Términos y condiciones | Aviso de privacidad"
+ownerDocument: document
+parentElement: html
+parentNode: html
+part: DOMTokenList [value: '']
+previousElementSibling: head
+previousSibling: text
+scrollHeight: 1660
+scrollLeft: 0
+scrollTop: 0
+scrollWidth: 135
+slot: ""
+spellcheck: true
+style: CSSStyleDeclaration {accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}
+tabIndex: -1
+tagName: "BODY"
+text: ""
+textContent: "\n\n\t\n\n\t\n\t\t<iframe src=\"https://www.googl
+title: ""
+translate: true
+vLink: ""
+virtualKeyboardPolicy: ""
