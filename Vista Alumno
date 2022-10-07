@@ -14,7 +14,7 @@ length: 2
 autocapitalize: ""
 autofocus: false
 background: ""
-baseURI: "https://cupones.alsea.com.mx/CuponeraAlsea/WalletAlsea"
+baseURI: "https://MI.CUPONERA/CuponeraAlsea/WalletAlsea"
 bgColor: ""
 childElementCount: 16
 childNodes: NodeList(36) [text, comment, text, noscript, text, comment, text, script, text, script, text, script, text, script, text, script, text, script, text, div#alseaContent.container, text, script, text, noscript, text, comment, text, footer#footerAlsea.text-center.w-100.d-block.mt-auto, text, script, text, div#exampleModal.modal.fade, text, div, iframe, iframe]
