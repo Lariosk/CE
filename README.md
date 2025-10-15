@@ -1,5 +1,5 @@
 # CE
 SISTEMA DE CONTROL ESCOLAR
-<H1>Funcionalidades</H1>
+## Funcionalidades ##
 - [ ] Gestionará en alumnos: Becas, Inscripciones, reinscripciones, horarios  
 - [ ] Gestionará en profesores: Calificaciones, horarios y materias  
